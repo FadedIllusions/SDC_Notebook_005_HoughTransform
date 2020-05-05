@@ -1,5 +1,5 @@
 # SDC_Notebook_005_HoughTransform
-This notebook is the second notebook corresponding to the "Computer Vision Fundamentals" of Udacity's Self-Driving Car Nanodegree, in which we begin exploring the concepts of image processing and computer vision.
+This notebook is the fifth notebook corresponding to the "Computer Vision Fundamentals" of Udacity's Self-Driving Car Nanodegree, in which we begin exploring the concepts of image processing and computer vision.
 
 When dealing with images, location (x=0,y=0) is in the top left corner of the image (this makes sense when considering the image as a matrix) with y-values increasing downward and x-values increasing to the right. Thus, when considering the image as an x,y-coordinate plane, we can consider the equation of a line on an image (known as "image space") to be the same as we would a typical coordinate plane -- y=mx+b.
 
